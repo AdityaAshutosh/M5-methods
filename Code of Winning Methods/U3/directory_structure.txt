@@ -1,5 +1,0 @@
-.
-./models
-./submissions
-./lgbm_datasets
-./processed_data
